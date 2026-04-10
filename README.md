@@ -1,3 +1,5 @@
+## 2026Apr10: We no longer operate PHP/Symfony-based projects. This Repository is obsolete and is therefore archived. Ron Metten
+
 PHP Analytics for Snowplow
 ==========================
 [![Build Status][travis-image]][travis]
